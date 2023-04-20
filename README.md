@@ -1,1 +1,2 @@
-2023_Data_Mining_SpeedDating_Dataset
+Projekat iz Istrazivanja podataka 1
+Tema: Speed dating
